@@ -1,11 +1,11 @@
 {
   "dog_accounts": {
-    "link": ""
+    "link": "test1"
   },
   "cat_accounts": {
-    "link": ""
+    "link": "test2"
   },
   "bunny_accounts": {
-    "link": ""
+    "link": "test3"
   }
 }
